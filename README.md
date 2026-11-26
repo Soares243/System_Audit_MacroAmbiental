@@ -1,5 +1,5 @@
 
-### <img width="30" height="512" alt="image" src="https://github.com/user-attachments/assets/111d36f0-58db-49eb-bc8f-27c342165831" />Presentation
+## Presentation
 
 This project was conceived and developed within the context of the **Audit Department**, with the objective of optimizing internal processes, improving activity traceability, and providing greater visibility into operational performance.
 
@@ -9,7 +9,7 @@ The development was carried out following software engineering best practices, w
 
 
 
-### <img width="30" height="512" alt="image" src="https://github.com/user-attachments/assets/111d36f0-58db-49eb-bc8f-27c342165831" />Apresentação
+## Apresentação
 
 O projeto foi idealizado e implementado no contexto do Setor de Auditoria, com o objetivo de otimizar processos internos, melhorar a rastreabilidade das atividades e fornecer maior visibilidade sobre o desempenho operacional.
 
@@ -35,7 +35,7 @@ O desenvolvimento foi realizado utilizando boas práticas de engenharia de softw
 
 
 
-# <img width="30" height="512" alt="image" src="https://github.com/user-attachments/assets/4988fd70-b4e0-4bdf-8339-359c7fbf4794" />Auditoria API – Audit Management System
+# Auditoria API – Audit Management System
 
 ## 📌 Overview
 
