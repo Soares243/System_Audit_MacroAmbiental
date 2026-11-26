@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./src/assets/logo-empresas.png" width="300" alt="Logo Macro Ambiental"/>
+</p>
 
 ## Presentation
 
